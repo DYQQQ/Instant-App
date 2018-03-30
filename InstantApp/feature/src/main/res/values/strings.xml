@@ -1,0 +1,24 @@
+<resources>
+    <string name="cat_asleep">
+        \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tzzz\n
+        \t|\\\t\t\t\t\t\t\t\t\t\t\t\t\t\t/|\t\t\t\n
+        \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n
+        \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n
+        \t\t\t--\t\t\t\t\t\t\t\t\t\t\t--\t\t\t\n
+        ≡≡\t\t\t\t\t\t\to\t\t\t\t\t\t≡≡\n
+        \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n
+        \t\t\t\t\t\t\t\t\t--\t\t\t\t\t\t\t\t\n
+        </string>
+    <string name="cat_awake">
+        \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n
+        \t|\\\t\t\t\t\t\t\t\t\t\t\t\t\t\t/|\t\t\t\n
+        \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n
+        \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n
+        \t\t\tO\t\t\t\t\t\t\t\t\t\t\tO\t\t\t\n
+        ≡≡\t\t\t\t\t\t\t-\t\t\t\t\t\t≡≡\n
+        \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n
+        \t\t\t\t\t\t\t\t\tO\t\t\t\t\t\t\t\t\n
+        </string>
+    <string name="sleep">Fall Asleep</string>
+    <string name="wake">Wake Up</string>
+</resources>

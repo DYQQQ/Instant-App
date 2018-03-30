@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.yduan.www.instantapp",
+    "sha256_cert_fingerprints":
+    ["1C:62:62:B7:E1:5E:7A:F0:C9:79:F6:14:CA:50:65:B2:08:4B:C5:6C:50:ED:E3:BF:58:C9:0B:FF:57:F1:ED:A8"]
+  }
+}]
